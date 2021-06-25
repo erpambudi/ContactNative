@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553325095217",
+    "project_id": "contactnative-9b66e",
+    "storage_bucket": "contactnative-9b66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553325095217:android:174fcbcda304893b00e810",
+        "android_client_info": {
+          "package_name": "com.pambudi.contactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553325095217-nmckc6aprfmhj7mbjvq0tu5vvvs0ondp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvMraq9GUphGXBIzo21Lejn0SfZx9btA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553325095217-nmckc6aprfmhj7mbjvq0tu5vvvs0ondp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
